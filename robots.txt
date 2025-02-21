@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hipui.csgad.com/xRG/sitemap.xml.gz
